@@ -1,3 +1,5 @@
 * text=auto
 * text eol=lf
 *.png binary
+MetaMiner_Supplementary_Files/** linguist-vendored
+
