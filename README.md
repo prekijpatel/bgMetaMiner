@@ -1,4 +1,7 @@
 # MetaMiner
+🚧 Work in Progress
+
+This repository is currently under active development for next version. Some features may be incomplete or unstable. We suggest you to use the built `.exe` rather than raw code available here.  
 
 ![graphical abstract](https://github.com/prekijpatel/MetaMiner/blob/main/img/graphical%20abstract.png)
 
